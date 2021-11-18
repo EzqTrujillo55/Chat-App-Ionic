@@ -1,4 +1,4 @@
-# Examen Tópicos Especiales
+# Chat-App-Ionic
 
 1. Este proyecto está desarrollado con Ionic + React.
 2. Básicamente consiste en 4 componentes principales: App, MainLayout, Login, Chat
